@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "book_001",
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_001.jpg"
+  },
+  {
+    "id": "book_002",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "language": "English",
+    "genre": "Classic Romance",
+    "image": "images/book_002.jpg"
+  },
+  {
+    "id": "book_003",
+    "name": "Anne Frank: The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "language": "English",
+    "genre": "Biography / Autobiography",
+    "image": "images/book_003.jpg"
+  },
+  {
+    "id": "book_004",
+    "name": "1984",
+    "author": "George Orwell",
+    "language": "English",
+    "genre": "Dystopian Fiction",
+    "image": "images/book_004.jpg"
+  },
+  {
+    "id": "book_005",
+    "name": "Harry Potter and the Sorcerer’s Stone",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_005.jpg"
+  },
+  {
+    "id": "book_006",
+    "name": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_006.jpg"
+  },
+  {
+    "id": "book_007",
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_007.jpg"
+  },
+  {
+    "id": "book_008",
+    "name": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_008.jpg"
+  },
+  {
+    "id": "book_009",
+    "name": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_009.jpg"
+  },
+  {
+    "id": "book_010",
+    "name": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_010.jpg"
+  },
+  {
+    "id": "book_011",
+    "name": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_011.jpg"
+  },
+  {
+    "id": "book_012",
+    "name": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_012.jpg"
+  },
+  {
+    "id": "book_013",
+    "name": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_013.jpg"
+  },
+  {
+    "id": "book_014",
+    "name": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_014.jpg"
+  },
+  {
+    "id": "book_015",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_015.jpg"
+  },
+  {
+    "id": "book_016",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_016.jpg"
+  },
+  {
+    "id": "book_017",
+    "name": "Charlotte’s Web",
+    "author": "E.B. White",
+    "language": "English",
+    "genre": "Children's Fiction",
+    "image": "images/book_017.jpg"
+  },
+  {
+    "id": "book_018",
+    "name": "Little Women",
+    "author": "Louisa May Alcott",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_018.jpg"
+  },
+  {
+    "id": "book_019",
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genre": "Dystopian Fiction",
+    "image": "images/book_019.jpg"
+  },
+  {
+    "id": "book_020",
+    "name": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "language": "English",
+    "genre": "Classic Gothic Fiction",
+    "image": "images/book_020.jpg"
+  },
+  {
+    "id": "book_021",
+    "name": "Gone With the Wind",
+    "author": "Margaret Mitchell",
+    "language": "English",
+    "genre": "Historical Fiction",
+    "image": "images/book_021.jpg"
+  },
+  {
+    "id": "book_022",
+    "name": "Animal Farm",
+    "author": "George Orwell",
+    "language": "English",
+    "genre": "Political Satire",
+    "image": "images/book_022.jpg"
+  },
+  {
+    "id": "book_023",
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_023.jpg"
+  },
+  {
+    "id": "book_024",
+    "name": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_024.jpg"
+  },
+  {
+    "id": "book_025",
+    "name": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "language": "English",
+    "genre": "Classic Fiction",
+    "image": "images/book_025.jpg"
+  },
+  {
+    "id": "book_026",
+    "name": "Alice’s Adventures in Wonderland & Through the Looking Glass",
+    "author": "Lewis Carroll",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_026.jpg"
+  },
+  {
+    "id": "book_027",
+    "name": "Watership Down",
+    "author": "Richard Adams",
+    "language": "English",
+    "genre": "Adventure Fantasy",
+    "image": "images/book_027.jpg"
+  },
+  {
+    "id": "book_028",
+    "name": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "language": "English",
+    "genre": "Classic Realism",
+    "image": "images/book_028.jpg"
+  },
+  {
+    "id": "book_029",
+    "name": "गुनाहों का देवता",
+    "author": "Dharamvir Bharati",
+    "language": "Hindi",
+    "genre": "Romantic Fiction",
+    "image": "images/book_029.jpg"
+  },
+  {
+    "id": "book_030",
+    "name": "गोदान",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Realism",
+    "image": "images/book_030.jpg"
+  },
+  {
+    "id": "book_031",
+    "name": "गबन",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Fiction",
+    "image": "images/book_031.jpg"
+  },
+  {
+    "id": "book_032",
+    "name": "सूरज का सातवाँ घोड़ा",
+    "author": "Dharamvir Bharati",
+    "language": "Hindi",
+    "genre": "Experimental Fiction",
+    "image": "images/book_032.jpg"
+  },
+  {
+    "id": "book_033",
+    "name": "अर्थला (संग्राम-सिंधु गाथा, #1)",
+    "author": "Vivek Kumar",
+    "language": "Hindi",
+    "genre": "Mythological Fiction",
+    "image": "images/book_033.jpg"
+  },
+  {
+    "id": "book_034",
+    "name": "मधुशाला",
+    "author": "Harivansh Rai Bachchan",
+    "language": "Hindi",
+    "genre": "Poetry",
+    "image": "images/book_034.jpg"
+  },
+  {
+    "id": "book_035",
+    "name": "राग दरबारी",
+    "author": "Shrilal Shukla",
+    "language": "Hindi",
+    "genre": "Satire Fiction",
+    "image": "images/book_035.jpg"
+  },
+  {
+    "id": "book_036",
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "language": "English",
+    "genre": "Self-Help / Personal Development",
+    "image": "images/book_036.jpg"
+  },
+  {
+    "id": "book_037",
+    "name": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "language": "English",
+    "genre": "Self-Help / Personal Development",
+    "image": "images/book_037.jpg"
+  },
+  {
+    "id": "book_038",
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "language": "English",
+    "genre": "Self-Help / Psychology",
+    "image": "images/book_038.jpg"
+  },
+  {
+    "id": "book_039",
+    "name": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "language": "English",
+    "genre": "Psychology / Memoir",
+    "image": "images/book_039.jpg"
+  },
+  {
+    "id": "book_040",
+    "name": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "language": "English",
+    "genre": "Spirituality / Self-Help",
+    "image": "images/book_040.jpg"
+  },
+  {
+    "id": "book_041",
+    "name": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "language": "English",
+    "genre": "Psychology / Non-Fiction",
+    "image": "images/book_041.jpg"
+  },
+  {
+    "id": "book_042",
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "language": "English",
+    "genre": "Self-Help / Finance",
+    "image": "images/book_042.jpg"
+  },
+  {
+    "id": "book_043",
+    "name": "Think Straight",
+    "author": "Darius Foroux",
+    "language": "English",
+    "genre": "Self-Help / Personal Development",
+    "image": "images/book_043.jpg"
+  },
+  {
+    "id": "book_044",
+    "name": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_044.jpg"
+  },
+  {
+    "id": "book_045",
+    "name": "Prince Caspian",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_045.jpg"
+  },
+  {
+    "id": "book_046",
+    "name": "The Voyage of the Dawn Treader",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_046.jpg"
+  },
+  {
+    "id": "book_047",
+    "name": "The Silver Chair",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_047.jpg"
+  },
+  {
+    "id": "book_048",
+    "name": "The Horse and His Boy",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_048.jpg"
+  },
+  {
+    "id": "book_049",
+    "name": "The Magician's Nephew",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_049.jpg"
+  },
+  {
+    "id": "book_050",
+    "name": "The Last Battle",
+    "author": "C. S. Lewis",
+    "language": "English",
+    "genre": "Fantasy / Children's Literature",
+    "image": "images/book_050.jpg"
+  },
+  {
+    "id": "book_051",
+    "name": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "language": "English",
+    "genre": "Fantasy",
+    "image": "images/book_051.jpg"
+  },
+  {
+    "id": "book_052",
+    "name": "The Immortals of Meluha",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_052.jpg"
+  },
+  {
+    "id": "book_053",
+    "name": "Gitanjali",
+    "author": "Rabindranath Tagore",
+    "language": "English",
+    "genre": "Poetry / Philosophy",
+    "image": "images/book_053.jpg"
+  },
+  {
+    "id": "book_054",
+    "name": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "language": "English",
+    "genre": "Literary Fiction",
+    "image": "images/book_054.jpg"
+  },
+  {
+    "id": "book_055",
+    "name": "Five Point Someone",
+    "author": "Chetan Bhagat",
+    "language": "English",
+    "genre": "Contemporary Fiction",
+    "image": "images/book_055.jpg"
+  },
+  {
+    "id": "book_056",
+    "name": "Swami and Friends",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_056.jpg"
+  },
+  {
+    "id": "book_057",
+    "name": "The Shining",
+    "author": "Stephen King",
+    "language": "English",
+    "genre": "Horror / Thriller",
+    "image": "images/book_057.jpg"
+  },
+  {
+    "id": "book_058",
+    "name": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "language": "English",
+    "genre": "Techno-Thriller",
+    "image": "images/book_058.jpg"
+  },
+  {
+    "id": "book_059",
+    "name": "Kane and Abel",
+    "author": "Jeffrey Archer",
+    "language": "English",
+    "genre": "Drama / Fiction",
+    "image": "images/book_059.jpg"
+  },
+  {
+    "id": "book_060",
+    "name": "A Suitable Boy",
+    "author": "Vikram Seth",
+    "language": "English",
+    "genre": "Historical Fiction",
+    "image": "images/book_060.jpg"
+  },
+  {
+    "id": "book_061",
+    "name": "An Era of Darkness",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "History / Non-Fiction",
+    "image": "images/book_061.jpg"
+  },
+  {
+    "id": "book_062",
+    "name": "The Secret of the Nagas",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_062.jpg"
+  },
+  {
+    "id": "book_063",
+    "name": "The Oath of the Vayuputras",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_063.jpg"
+  },
+  {
+    "id": "book_064",
+    "name": "Scion of Ikshvaku",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_064.jpg"
+  },
+  {
+    "id": "book_065",
+    "name": "Sita: Warrior of Mithila",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_065.jpg"
+  },
+  {
+    "id": "book_066",
+    "name": "Raavan: Enemy of Aryavarta",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_066.jpg"
+  },
+  {
+    "id": "book_067",
+    "name": "War of Lanka",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_067.jpg"
+  },
+  {
+    "id": "book_068",
+    "name": "Legend of Suheldev",
+    "author": "Amish Tripathi",
+    "language": "English",
+    "genre": "Historical Fiction",
+    "image": "images/book_068.jpg"
+  },
+  {
+    "id": "book_069",
+    "name": "The Great Indian Novel",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Political Satire / Fiction",
+    "image": "images/book_069.jpg"
+  },
+  {
+    "id": "book_070",
+    "name": "Why I Am a Hindu",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Philosophy / Non-Fiction",
+    "image": "images/book_070.jpg"
+  },
+  {
+    "id": "book_071",
+    "name": "Inglorious Empire: What the British Did to India",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "History / Non-Fiction",
+    "image": "images/book_071.jpg"
+  },
+  {
+    "id": "book_072",
+    "name": "The Paradoxical Prime Minister",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Biography / Politics",
+    "image": "images/book_072.jpg"
+  },
+  {
+    "id": "book_073",
+    "name": "Riot: A Love Story",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Contemporary Fiction",
+    "image": "images/book_073.jpg"
+  },
+  {
+    "id": "book_074",
+    "name": "Ambedkar: A Life",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/book_074.jpg"
+  },
+  {
+    "id": "book_075",
+    "name": "The Room on the Roof",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Fiction / Coming-of-age",
+    "image": "images/book_075.jpg"
+  },
+  {
+    "id": "book_076",
+    "name": "The Blue Umbrella",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Children's Fiction",
+    "image": "images/book_076.jpg"
+  },
+  {
+    "id": "book_077",
+    "name": "The Night Train at Deoli and Other Stories",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Short Stories Collection",
+    "image": "images/book_077.jpg"
+  },
+  {
+    "id": "book_078",
+    "name": "Our Trees Still Grow in Dehra",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Fiction / Memoir",
+    "image": "images/book_078.jpg"
+  },
+  {
+    "id": "book_079",
+    "name": "A Flight of Pigeons",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Historical Fiction",
+    "image": "images/book_079.jpg"
+  },
+  {
+    "id": "book_080",
+    "name": "Delhi Is Not Far",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Fiction",
+    "image": "images/book_080.jpg"
+  },
+  {
+    "id": "book_081",
+    "name": "Time Stops at Shamli",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "genre": "Short Stories Collection",
+    "image": "images/book_081.jpg"
+  },
+  {
+    "id": "book_082",
+    "name": "Malgudi Days",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Short Stories Collection",
+    "image": "images/book_082.jpg"
+  },
+  {
+    "id": "book_083",
+    "name": "The Guide",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_083.jpg"
+  },
+  {
+    "id": "book_084",
+    "name": "The English Teacher",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_084.jpg"
+  },
+  {
+    "id": "book_085",
+    "name": "The Vendor of Sweets",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_085.jpg"
+  },
+  {
+    "id": "book_086",
+    "name": "The Bachelor of Arts",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_086.jpg"
+  },
+  {
+    "id": "book_087",
+    "name": "The Financial Expert",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_087.jpg"
+  },
+  {
+    "id": "book_088",
+    "name": "The Dark Room",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_088.jpg"
+  },
+  {
+    "id": "book_089",
+    "name": "A Tiger for Malgudi",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_089.jpg"
+  },
+  {
+    "id": "book_090",
+    "name": "Waiting for the Mahatma",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Historical Fiction",
+    "image": "images/book_090.jpg"
+  },
+  {
+    "id": "book_091",
+    "name": "कर्मभूमि",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Realism",
+    "image": "images/book_091.jpg"
+  },
+  {
+    "id": "book_092",
+    "name": "रंगभूमि",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Realism",
+    "image": "images/book_092.jpg"
+  },
+  {
+    "id": "book_093",
+    "name": "निर्मला",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Realism",
+    "image": "images/book_093.jpg"
+  },
+  {
+    "id": "book_094",
+    "name": "सेवासदन",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Realism",
+    "image": "images/book_094.jpg"
+  },
+  {
+    "id": "book_095",
+    "name": "मानसरोवर",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Short Stories Collection",
+    "image": "images/book_095.jpg"
+  },
+  {
+    "id": "book_096",
+    "name": "प्रतिज्ञा",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Social Fiction",
+    "image": "images/book_096.jpg"
+  },
+  {
+    "id": "book_097",
+    "name": "कायाकल्प",
+    "author": "Munshi Premchand",
+    "language": "Hindi",
+    "genre": "Philosophical Fiction",
+    "image": "images/book_097.jpg"
+  },
+  {
+    "id": "book_098",
+    "name": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "language": "English",
+    "genre": "Mythological Fiction",
+    "image": "images/book_098.jpg"
+  },
+  {
+    "id": "book_099",
+    "name": "The Guide to Malgudi",
+    "author": "R.K. Narayan",
+    "language": "English",
+    "genre": "Classic Indian Fiction",
+    "image": "images/book_099.jpg"
+  },
+  {
+    "id": "book_100",
+    "name": "The Pax Indica",
+    "author": "Shashi Tharoor",
+    "language": "English",
+    "genre": "Politics / International Relations",
+    "image": "images/book_100.jpg"
+  },
+  {
+    "id": "travel_001",
+    "name": "Into the Wild",
+    "author": "Jon Krakauer",
+    "language": "English",
+    "genre": "Adventure / Biography",
+    "image": "images/travel_001.jpg"
+  },
+  {
+    "id": "travel_002",
+    "name": "The Great Railway Bazaar",
+    "author": "Paul Theroux",
+    "language": "English",
+    "genre": "Travel Memoir",
+    "image": "images/travel_002.jpg"
+  },
+  {
+    "id": "travel_003",
+    "name": "Wild: From Lost to Found on the Pacific Crest Trail",
+    "author": "Cheryl Strayed",
+    "language": "English",
+    "genre": "Memoir / Adventure",
+    "image": "images/travel_003.jpg"
+  },
+  {
+    "id": "travel_004",
+    "name": "World Travel: An Irreverent Guide",
+    "author": "Anthony Bourdain",
+    "language": "English",
+    "genre": "Travel Guide / Essays",
+    "image": "images/travel_004.jpg"
+  },
+  {
+    "id": "travel_005",
+    "name": "In Patagonia",
+    "author": "Bruce Chatwin",
+    "language": "English",
+    "genre": "Travelogue / Classics",
+    "image": "images/travel_005.jpg"
+  },
+  {
+    "id": "travel_006",
+    "name": "A Walk in the Woods",
+    "author": "Bill Bryson",
+    "language": "English",
+    "genre": "Humorous Travelogue",
+    "image": "images/travel_006.jpg"
+  },
+  {
+    "id": "travel_007",
+    "name": "Eat, Pray, Love",
+    "author": "Elizabeth Gilbert",
+    "language": "English",
+    "genre": "Memoir / Spiritual Travel",
+    "image": "images/travel_007.jpg"
+  },
+  {
+    "id": "travel_008",
+    "name": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "author": "Rolf Potts",
+    "language": "English",
+    "genre": "Travel Philosophy / Guide",
+    "image": "images/travel_008.jpg"
+  },
+  {
+    "id": "travel_009",
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "language": "English",
+    "genre": "Quest / Philosophical Fiction",
+    "image": "images/travel_009.jpg"
+  },
+  {
+    "id": "travel_010",
+    "name": "Travels with Charley in Search of America",
+    "author": "John Steinbeck",
+    "language": "English",
+    "genre": "Classic Travelogue",
+    "image": "images/travel_010.jpg"
+  },
+  {
+    "id": "travel_011",
+    "name": "मेरी तिब्बत यात्रा",
+    "author": "Rahul Sankrityayan",
+    "language": "Hindi",
+    "genre": "Classic Travelogue",
+    "image": "images/travel_011.jpg"
+  },
+  {
+    "id": "travel_012",
+    "name": "अरे यायावर रहेगा याद",
+    "author": "Sachchidananda Hirananda Vatsyayan 'Agyeya'",
+    "language": "Hindi",
+    "genre": "Literary Travelogue",
+    "image": "images/travel_012.jpg"
+  },
+  {
+    "id": "travel_013",
+    "name": "मेरी लद्दाख यात्रा",
+    "author": "Rahul Sankrityayan",
+    "language": "Hindi",
+    "genre": "Classic Travelogue",
+    "image": "images/travel_013.jpg"
+  },
+  {
+    "id": "travel_014",
+    "name": "मेरी यात्राएँ",
+    "author": "Ramdhari Singh 'Dinkar'",
+    "language": "Hindi",
+    "genre": "Essays / Travelogue",
+    "image": "images/travel_014.jpg"
+  },
+  {
+    "id": "travel_015",
+    "name": "दूर दुर्गम दुरुस्त",
+    "author": "Anil Yadav",
+    "language": "Hindi",
+    "genre": "Contemporary Travelogue",
+    "image": "images/travel_015.jpg"
+  },
+  {
+    "id": "travel_016",
+    "name": "हर बारिश में",
+    "author": "Nermal Verma",
+    "language": "Hindi",
+    "genre": "Memoir / European Travel",
+    "image": "images/travel_016.jpg"
+  },
+  {
+    "id": "travel_017",
+    "name": "आज़ादी मेरा ब्रांड",
+    "author": "Anuradha Beniwal",
+    "language": "Hindi",
+    "genre": "Solo Travel Memoir",
+    "image": "images/travel_017.jpg"
+  },
+  {
+    "id": "travel_018",
+    "name": "चलते तो अच्छा था",
+    "author": "Asghar Wajahat",
+    "language": "Hindi",
+    "genre": "Middle-East Travelogue",
+    "image": "images/travel_018.jpg"
+  },
+  {
+    "id": "travel_019",
+    "name": "एक सड़क एक जगह",
+    "author": "Manglesh Dabral",
+    "language": "Hindi",
+    "genre": "Poetic Travelogue",
+    "image": "images/travel_019.jpg"
+  },
+  {
+    "id": "travel_020",
+    "name": "तिब्बत में सात वर्ष",
+    "author": "Heinrich Harrer (Translated)",
+    "language": "Hindi",
+    "genre": "Adventure Biography",
+    "image": "images/travel_020.jpg"
+  },
+  {
+    "id": "poem_001",
+    "name": "मधुशाला",
+    "author": "Harivansh Rai Bachchan",
+    "language": "Hindi",
+    "genre": "Poetry",
+    "image": "images/poem_001.jpg"
+  },
+  {
+    "id": "poem_002",
+    "name": "रश्मिरथी",
+    "author": "Ramdhari Singh 'Dinkar'",
+    "language": "Hindi",
+    "genre": "Epic Poetry",
+    "image": "images/poem_002.jpg"
+  },
+  {
+    "id": "poem_003",
+    "name": "कामायनी",
+    "author": "Jaishankar Prasad",
+    "language": "Hindi",
+    "genre": "Epic Poetry",
+    "image": "images/poem_003.jpg"
+  },
+  {
+    "id": "poem_004",
+    "name": "यामा",
+    "author": "Mahadevi Varma",
+    "language": "Hindi",
+    "genre": "Poetry",
+    "image": "images/poem_004.jpg"
+  },
+  {
+    "id": "poem_005",
+    "name": "साकेत",
+    "author": "Maithili Sharan Gupt",
+    "language": "Hindi",
+    "genre": "Epic Poetry",
+    "image": "images/poem_005.jpg"
+  },
+  {
+    "id": "poem_006",
+    "name": "कुरुक्षेत्र",
+    "author": "Ramdhari Singh 'Dinkar'",
+    "language": "Hindi",
+    "genre": "Poetry",
+    "image": "images/poem_006.jpg"
+  },
+  {
+    "id": "poem_007",
+    "name": "संसद से सड़क तक",
+    "author": "Sudama Panday 'Dhoomil'",
+    "language": "Hindi",
+    "genre": "Political Poetry",
+    "image": "images/poem_007.jpg"
+  },
+  {
+    "id": "poem_008",
+    "name": "चाँद का मुँह टेढ़ा है",
+    "author": "Gajanan Madhav 'Muktibodh'",
+    "language": "Hindi",
+    "genre": "Modern Poetry",
+    "image": "images/poem_008.jpg"
+  },
+  {
+    "id": "poem_009",
+    "name": "अनामिका",
+    "author": "Suryakant Tripathi 'Nirala'",
+    "language": "Hindi",
+    "genre": "Poetry",
+    "image": "images/poem_009.jpg"
+  },
+  {
+    "id": "poem_010",
+    "name": "तार सप्तक",
+    "author": "Sachchidananda Hirananda Vatsyayan 'Agyeya'",
+    "language": "Hindi",
+    "genre": "Anthology / Poetry",
+    "image": "images/poem_010.jpg"
+  },
+  {
+    "id": "poem_011",
+    "name": "The Waste Land",
+    "author": "T.S. Eliot",
+    "language": "English",
+    "genre": "Modernist Poetry",
+    "image": "images/poem_011.jpg"
+  },
+  {
+    "id": "poem_012",
+    "name": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "language": "English",
+    "genre": "Poetry",
+    "image": "images/poem_012.jpg"
+  },
+  {
+    "id": "poem_013",
+    "name": "Milk and Honey",
+    "author": "Rupi Kaur",
+    "language": "English",
+    "genre": "Contemporary Poetry",
+    "image": "images/poem_013.jpg"
+  },
+  {
+    "id": "poem_014",
+    "name": "The Prophet",
+    "author": "Kahlil Gibran",
+    "language": "English",
+    "genre": "Philosophical Poetry",
+    "image": "images/poem_014.jpg"
+  },
+  {
+    "id": "poem_015",
+    "name": "Where the Sidewalk Ends",
+    "author": "Shel Silverstein",
+    "language": "English",
+    "genre": "Children's Poetry",
+    "image": "images/poem_015.jpg"
+  },
+  {
+    "id": "poem_016",
+    "name": "Selected Poems",
+    "author": "Langston Hughes",
+    "language": "English",
+    "genre": "Poetry",
+    "image": "images/poem_016.jpg"
+  },
+  {
+    "id": "poem_017",
+    "name": "Devotions",
+    "author": "Mary Oliver",
+    "language": "English",
+    "genre": "Nature Poetry",
+    "image": "images/poem_017.jpg"
+  },
+  {
+    "id": "poem_018",
+    "name": "Ariel",
+    "author": "Sylvia Plath",
+    "language": "English",
+    "genre": "Confessional Poetry",
+    "image": "images/poem_018.jpg"
+  },
+  {
+    "id": "poem_019",
+    "name": "The Sun and Her Flowers",
+    "author": "Rupi Kaur",
+    "language": "English",
+    "genre": "Contemporary Poetry",
+    "image": "images/poem_019.jpg"
+  },
+  {
+    "id": "poem_020",
+    "name": "Sonnets",
+    "author": "William Shakespeare",
+    "language": "English",
+    "genre": "Classic Poetry",
+    "image": "images/poem_020.jpg"
+  },
+  {
+    "id": "food_001",
+    "name": "दाल रोटी",
+    "author": "Sanjeev Kapoor",
+    "language": "Hindi",
+    "genre": "Cookbook / Recipes",
+    "image": "images/food_001.jpg"
+  },
+  {
+    "id": "food_002",
+    "name": "शाकाहारी कुकिंग",
+    "author": "Tarla Dalal",
+    "language": "Hindi",
+    "genre": "Vegetarian Cookbook",
+    "image": "images/food_002.jpg"
+  },
+  {
+    "id": "food_003",
+    "name": "मसाला मिक्स",
+    "author": "Nisha Madhulika",
+    "language": "Hindi",
+    "genre": "Cookbook / Indian Cuisine",
+    "image": "images/food_003.jpg"
+  },
+  {
+    "id": "food_004",
+    "name": "100 शाकाहारी व्यंजन",
+    "author": "Vikas Khanna",
+    "language": "Hindi",
+    "genre": "Vegetarian Cookbook",
+    "image": "images/food_004.jpg"
+  },
+  {
+    "id": "food_005",
+    "name": "भोजन और स्वास्थ्य",
+    "author": "Dr. Rajeev Sharma",
+    "language": "Hindi",
+    "genre": "Food Health / Nutrition",
+    "image": "images/food_005.jpg"
+  },
+  {
+    "id": "food_006",
+    "name": "रसोई की रानी",
+    "author": "Manju Malhi",
+    "language": "Hindi",
+    "genre": "Home Cooking Guide",
+    "image": "images/food_006.jpg"
+  },
+  {
+    "id": "food_007",
+    "name": "जायके का सफर",
+    "author": "Kunwar Singh",
+    "language": "Hindi",
+    "genre": "Food History / Travel",
+    "image": "images/food_007.jpg"
+  },
+  {
+    "id": "food_008",
+    "name": "आयुर्वेदिक आहार",
+    "author": "Acharya Balkrishna",
+    "language": "Hindi",
+    "genre": "Traditional Nutrition",
+    "image": "images/food_008.jpg"
+  },
+  {
+    "id": "food_009",
+    "name": "मिठाइयाँ और नमकीन",
+    "author": "Nita Mehta",
+    "language": "Hindi",
+    "genre": "Indian Desserts / Snacks",
+    "image": "images/food_009.jpg"
+  },
+  {
+    "id": "food_010",
+    "name": "भारत का स्वाद",
+    "author": "Ranveer Brar",
+    "language": "Hindi",
+    "genre": "Regional Indian Cuisine",
+    "image": "images/food_010.jpg"
+  },
+  {
+    "id": "self_003",
+    "name": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "language": "English",
+    "genre": "Personality Development / Communication",
+    "image": "images/self_003.jpg"
+  },
+  {
+    "id": "self_007",
+    "name": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "language": "English",
+    "genre": "Psychology / Self-Help",
+    "image": "images/self_007.jpg"
+  },
+  {
+    "id": "self_008",
+    "name": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "author": "David Goggins",
+    "language": "English",
+    "genre": "Memoir / Personal Growth",
+    "image": "images/self_008.jpg"
+  },
+  {
+    "id": "self_009",
+    "name": "Awaken the Giant Within",
+    "author": "Tony Robbins",
+    "language": "English",
+    "genre": "Self-Help / Psychology",
+    "image": "images/self_009.jpg"
+  },
+  {
+    "id": "self_010",
+    "name": "The Subliminal Power of Habit",
+    "author": "Charles Duhigg",
+    "language": "English",
+    "genre": "Psychology / Behavioral Science",
+    "image": "images/self_010.jpg"
+  },
+  {
+    "id": "self_012",
+    "name": "Deep Work: Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "language": "English",
+    "genre": "Productivity / Self-Help",
+    "image": "images/self_012.jpg"
+  },
+  {
+    "id": "self_013",
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "language": "English",
+    "genre": "Self-Help / Modern Philosophy",
+    "image": "images/self_013.jpg"
+  },
+  {
+    "id": "self_014",
+    "name": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "language": "English",
+    "genre": "Productivity / Personal Growth",
+    "image": "images/self_014.jpg"
+  },
+  {
+    "id": "self_015",
+    "name": "Grit: The Power of Passion and Perseverance",
+    "author": "Angela Duckworth",
+    "language": "English",
+    "genre": "Psychology / Success",
+    "image": "images/self_015.jpg"
+  },
+  {
+    "id": "self_016",
+    "name": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "language": "English",
+    "genre": "Spirituality / Self-Help",
+    "image": "images/self_016.jpg"
+  },
+  {
+    "id": "self_017",
+    "name": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "language": "English",
+    "genre": "Psychology / Decision Making",
+    "image": "images/self_017.jpg"
+  },
+  {
+    "id": "self_018",
+    "name": "Daring Greatly",
+    "author": "Brené Brown",
+    "language": "English",
+    "genre": "Self-Help / Psychology",
+    "image": "images/self_018.jpg"
+  },
+  {
+    "id": "self_019",
+    "name": "The Mountain Is You",
+    "author": "Brianna Wiest",
+    "language": "English",
+    "genre": "Self-Help / Self-Sabotage",
+    "image": "images/self_019.jpg"
+  },
+  {
+    "id": "self_020",
+    "name": "Psycho-Cybernetics",
+    "author": "Maxwell Maltz",
+    "language": "English",
+    "genre": "Personality Development / Psychology",
+    "image": "images/self_020.jpg"
+  },
+  {
+    "id": "self_hi_001",
+    "name": "अति प्रभावकारी लोगों की 7 आदतें",
+    "author": "Stephen R. Covey",
+    "language": "Hindi",
+    "genre": "Self-Help / Leadership",
+    "image": "images/self_hi_001.jpg"
+  },
+  {
+    "id": "self_hi_002",
+    "name": "लोक व्यवहार: प्रभावशाली व्यक्तित्व की कला",
+    "author": "Dale Carnegie",
+    "language": "Hindi",
+    "genre": "Personality Development / Communication",
+    "image": "images/self_hi_002.jpg"
+  },
+  {
+    "id": "self_hi_003",
+    "name": "सोचिए और अमीर बनिए",
+    "author": "Napoleon Hill",
+    "language": "Hindi",
+    "genre": "Self-Help / Success Philosophy",
+    "image": "images/self_hi_003.jpg"
+  },
+  {
+    "id": "self_hi_004",
+    "name": "जीत आपकी",
+    "author": "Shiv Khera",
+    "language": "Hindi",
+    "genre": "Self-Help / Motivation",
+    "image": "images/self_hi_004.jpg"
+  },
+  {
+    "id": "self_hi_005",
+    "name": "बड़ी सोच का बड़ा जादू",
+    "author": "David J. Schwartz",
+    "language": "Hindi",
+    "genre": "Self-Help / Personal Growth",
+    "image": "images/self_hi_005.jpg"
+  },
+  {
+    "id": "self_hi_006",
+    "name": "रहस्य",
+    "author": "Rhonda Byrne",
+    "language": "Hindi",
+    "genre": "Self-Help / Law of Attraction",
+    "image": "images/self_hi_006.jpg"
+  },
+  {
+    "id": "self_hi_007",
+    "name": "सकारात्मक सोच की शक्ति",
+    "author": "Norman Vincent Peale",
+    "language": "Hindi",
+    "genre": "Self-Help / Psychology",
+    "image": "images/self_hi_007.jpg"
+  },
+  {
+    "id": "self_hi_008",
+    "name": "इकिगाई: लंबी और खुशहाल जिंदगी का जापानी रहस्य",
+    "author": "Héctor García and Francesc Miralles",
+    "language": "Hindi",
+    "genre": "Self-Help / Happiness",
+    "image": "images/self_hi_008.jpg"
+  },
+  {
+    "id": "self_hi_009",
+    "name": "अवतल चेतन मन की शक्ति",
+    "author": "Joseph Murphy",
+    "language": "Hindi",
+    "genre": "Self-Help / Psychology",
+    "image": "images/self_hi_009.jpg"
+  },
+  {
+    "id": "self_hi_010",
+    "name": "आत्मविश्वास का जादू",
+    "author": "Brian Tracy",
+    "language": "Hindi",
+    "genre": "Personality Development",
+    "image": "images/self_hi_010.jpg"
+  },
+  {
+    "id": "self_hi_011",
+    "name": "संन्यासी जिसने अपनी संपत्ति बेच दी",
+    "author": "Robin Sharma",
+    "language": "Hindi",
+    "genre": "Self-Help / Fable",
+    "image": "images/self_hi_011.jpg"
+  },
+  {
+    "id": "self_hi_012",
+    "name": "रिच डैड पुअर डैड",
+    "author": "Robert T. Kiyosaki",
+    "language": "Hindi",
+    "genre": "Self-Help / Personal Finance",
+    "image": "images/self_hi_012.jpg"
+  },
+  {
+    "id": "self_hi_013",
+    "name": "टाइम मैनेजमेंट",
+    "author": "Dr. Sudhir Dixit",
+    "language": "Hindi",
+    "genre": "Self-Help / Productivity",
+    "image": "images/self_hi_013.jpg"
+  },
+  {
+    "id": "self_hi_014",
+    "name": "चाणक्य नीति",
+    "author": "Acharya Chanakya",
+    "language": "Hindi",
+    "genre": "Philosophy / Life Strategy",
+    "image": "images/self_hi_014.jpg"
+  },
+  {
+    "id": "self_hi_015",
+    "name": "मन के जीते जीत",
+    "author": "Deepak Chopra",
+    "language": "Hindi",
+    "genre": "Self-Help / Spirituality",
+    "image": "images/self_hi_015.jpg"
+  },
+  {
+    "id": "self_hi_016",
+    "name": "लक्ष्य!",
+    "author": "Brian Tracy",
+    "language": "Hindi",
+    "genre": "Self-Help / Success",
+    "image": "images/self_hi_016.jpg"
+  },
+  {
+    "id": "self_hi_017",
+    "name": "अपने भीतर छुपे लीडर को कैसे जगाएं",
+    "author": "John C. Maxwell",
+    "language": "Hindi",
+    "genre": "Leadership / Self-Help",
+    "image": "images/self_hi_017.jpg"
+  },
+  {
+    "id": "self_hi_018",
+    "name": "सफलता के 7 आध्यात्मिक नियम",
+    "author": "Deepak Chopra",
+    "language": "Hindi",
+    "genre": "Spirituality / Self-Help",
+    "image": "images/self_hi_018.jpg"
+  },
+  {
+    "id": "self_hi_019",
+    "name": "वर्तमान का शक्ति",
+    "author": "Eckhart Tolle",
+    "language": "Hindi",
+    "genre": "Spirituality / Mindfulness",
+    "image": "images/self_hi_019.jpg"
+  },
+  {
+    "id": "self_hi_020",
+    "name": "जैसे विचार, वैसा जीवन",
+    "author": "James Allen",
+    "language": "Hindi",
+    "genre": "Self-Help / Philosophy",
+    "image": "images/self_hi_020.jpg"
+  },
+  {
+    "id": "bio_en_001",
+    "name": "The Story of My Experiments with Truth",
+    "author": "Mahatma Gandhi",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_001.jpg"
+  },
+  {
+    "id": "bio_en_002",
+    "name": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_002.jpg"
+  },
+  {
+    "id": "bio_en_003",
+    "name": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_003.jpg"
+  },
+  {
+    "id": "bio_en_004",
+    "name": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_004.jpg"
+  },
+  {
+    "id": "bio_en_005",
+    "name": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "language": "English",
+    "genre": "Autobiography / Diary",
+    "image": "images/bio_en_005.jpg"
+  },
+  {
+    "id": "bio_en_006",
+    "name": "Elon Musk",
+    "author": "Walter Isaacson",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_006.jpg"
+  },
+  {
+    "id": "bio_en_007",
+    "name": "Shoe Dog",
+    "author": "Phil Knight",
+    "language": "English",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_en_007.jpg"
+  },
+  {
+    "id": "bio_en_008",
+    "name": "Becoming",
+    "author": "Michelle Obama",
+    "language": "English",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_en_008.jpg"
+  },
+  {
+    "id": "bio_en_009",
+    "name": "Open",
+    "author": "Andre Agassi",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_009.jpg"
+  },
+  {
+    "id": "bio_en_010",
+    "name": "Playing It My Way",
+    "author": "Sachin Tendulkar",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_010.jpg"
+  },
+  {
+    "id": "bio_en_011",
+    "name": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_011.jpg"
+  },
+  {
+    "id": "bio_en_012",
+    "name": "The Autobiography of Malcolm X",
+    "author": "Malcolm X & Alex Haley",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_012.jpg"
+  },
+  {
+    "id": "bio_en_013",
+    "name": "I Am Malala",
+    "author": "Malala Yousafzai",
+    "language": "English",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_en_013.jpg"
+  },
+  {
+    "id": "bio_en_014",
+    "name": "Einstein: His Life and Universe",
+    "author": "Walter Isaacson",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_014.jpg"
+  },
+  {
+    "id": "bio_en_015",
+    "name": "The Race of My Life",
+    "author": "Milkha Singh",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_015.jpg"
+  },
+  {
+    "id": "bio_en_016",
+    "name": "An Autobiography: Toward Freedom",
+    "author": "Jawaharlal Nehru",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_016.jpg"
+  },
+  {
+    "id": "bio_en_017",
+    "name": "Unbreakable",
+    "author": "Mary Kom",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_017.jpg"
+  },
+  {
+    "id": "bio_en_018",
+    "name": "Leonardo da Vinci",
+    "author": "Walter Isaacson",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_018.jpg"
+  },
+  {
+    "id": "bio_en_019",
+    "name": "Straight from the Heart",
+    "author": "Kapil Dev",
+    "language": "English",
+    "genre": "Autobiography",
+    "image": "images/bio_en_019.jpg"
+  },
+  {
+    "id": "bio_en_020",
+    "name": "The Snowball: Warren Buffett and the Business of Life",
+    "author": "Alice Schroeder",
+    "language": "English",
+    "genre": "Biography",
+    "image": "images/bio_en_020.jpg"
+  },
+  {
+    "id": "bio_id_001",
+    "name": "सत्य के प्रयोग",
+    "author": "Mahatma Gandhi",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_001.jpg"
+  },
+  {
+    "id": "bio_id_002",
+    "name": "अग्नि की उड़ान",
+    "author": "A.P.J. Abdul Kalam",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_002.jpg"
+  },
+  {
+    "id": "bio_id_003",
+    "name": "क्या भूलूँ क्या याद करूँ",
+    "author": "Harivansh Rai Bachchan",
+    "language": "Hindi",
+    "genre": "Autobiography / Poetry",
+    "image": "images/bio_id_003.jpg"
+  },
+  {
+    "id": "bio_id_004",
+    "name": "नीड़ का निर्माण फिर",
+    "author": "Harivansh Rai Bachchan",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_004.jpg"
+  },
+  {
+    "id": "bio_id_005",
+    "name": "मेरी जीवन यात्रा",
+    "author": "Rahul Sankrityayan",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_005.jpg"
+  },
+  {
+    "id": "bio_id_006",
+    "name": "आत्मकथा",
+    "author": "Dr. Rajendra Prasad",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_006.jpg"
+  },
+  {
+    "id": "bio_id_007",
+    "name": "जूठन",
+    "author": "Om Prakash Valmiki",
+    "language": "Hindi",
+    "genre": "Autobiography / Social Realism",
+    "image": "images/bio_id_007.jpg"
+  },
+  {
+    "id": "bio_id_008",
+    "name": "कलम का सिपाही",
+    "author": "Amrit Rai",
+    "language": "Hindi",
+    "genre": "Biography (Premchand)",
+    "image": "images/bio_id_008.jpg"
+  },
+  {
+    "id": "bio_id_009",
+    "name": "आवारा मसीहा",
+    "author": "Vishnu Prabhakar",
+    "language": "Hindi",
+    "genre": "Biography (Sarat Chandra)",
+    "image": "images/bio_id_009.jpg"
+  },
+  {
+    "id": "bio_id_010",
+    "name": "मेरा जीवन प्रवाह",
+    "author": "Viyogi Hari",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_010.jpg"
+  },
+  {
+    "id": "bio_id_011",
+    "name": "मेरी सफलताएँ",
+    "author": "Babu Gulabrai",
+    "language": "Hindi",
+    "genre": "Autobiography / Essays",
+    "image": "images/bio_id_011.jpg"
+  },
+  {
+    "id": "bio_id_012",
+    "name": "सिंहावलोकन",
+    "author": "Yashpal",
+    "language": "Hindi",
+    "genre": "Autobiography / Political",
+    "image": "images/bio_id_012.jpg"
+  },
+  {
+    "id": "bio_id_013",
+    "name": "निराला की साहित्य साधना",
+    "author": "Ram Vilas Sharma",
+    "language": "Hindi",
+    "genre": "Biography (Nirala)",
+    "image": "images/bio_id_013.jpg"
+  },
+  {
+    "id": "bio_id_014",
+    "name": "लोकनायक जयप्रकाश नारायण",
+    "author": "Rambriksh Benipuri",
+    "language": "Hindi",
+    "genre": "Biography",
+    "image": "images/bio_id_014.jpg"
+  },
+  {
+    "id": "bio_id_015",
+    "name": "क्रांतिकारी बिस्मिल और उनकी आत्मकथा",
+    "author": "Ram Prasad Bismil",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_015.jpg"
+  },
+  {
+    "id": "bio_id_016",
+    "name": "बचपन के दिन",
+    "author": "Mahadevi Varma",
+    "language": "Hindi",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_id_016.jpg"
+  },
+  {
+    "id": "bio_id_017",
+    "name": "मुड़ मुड़ के देखता हूँ",
+    "author": "Rajendra Yadav",
+    "language": "Hindi",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_id_017.jpg"
+  },
+  {
+    "id": "bio_id_018",
+    "name": "पिंजरे की मैना",
+    "author": "Chandrakiran Sonrexa",
+    "language": "Hindi",
+    "genre": "Autobiography",
+    "image": "images/bio_id_018.jpg"
+  },
+  {
+    "id": "bio_id_019",
+    "name": "एक कहानी यह भी",
+    "author": "Mannu Bhandari",
+    "language": "Hindi",
+    "genre": "Autobiography / Memoir",
+    "image": "images/bio_id_019.jpg"
+  },
+  {
+    "id": "bio_id_020",
+    "name": "सुभाष चंद्र बोस: एक जीवनी",
+    "author": "Col. Suresh Yadav",
+    "language": "Hindi",
+    "genre": "Biography",
+    "image": "images/bio_id_020.jpg"
+  }
+]

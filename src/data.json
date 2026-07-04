@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "cover_image": "images/midnight_library.jpg",
+    "rating": 4.5,
+    "category": "Weekly Suggestions",
+    "recommended_by": "Oprah Winfrey",
+    "awards": "Goodreads Choice Award"
+  },
+  {
+    "id": 2,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "cover_image": "images/educated.jpg",
+    "rating": 4.8,
+    "category": "Must Reads",
+    "recommended_by": "Bill Gates",
+    "awards": "Barack Obama's Favorite Books"
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "cover_image": "images/dune.jpg",
+    "rating": 4.7,
+    "category": "New Launch",
+    "recommended_by": "Elon Musk",
+    "awards": "Hugo Award Winner"
+  },
+  {
+    "id": 4,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "cover_image": "images/atomic_habits.jpg",
+    "rating": 4.9,
+    "category": "Must Reads",
+    "recommended_by": "Ali Abdaal",
+    "awards": "Best Seller"
+  },
+  {
+    "id": 5,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover_image": "images/alchemist.jpg",
+    "rating": 4.6,
+    "category": "Weekly Suggestions",
+    "recommended_by": "Malala Yousafzai",
+    "awards": "Guinness World Record"
+  },
+  {
+    "id": 6,
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "cover_image": "images/klara.jpg",
+    "rating": 4.2,
+    "category": "New Launch",
+    "recommended_by": "Barack Obama",
+    "awards": "Booker Prize Nominee"
+  },
+  {
+    "id": 7,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "cover_image": "images/hail_mary.jpg",
+    "rating": 4.8,
+    "category": "New Launch",
+    "recommended_by": "Brandon Sanderson",
+    "awards": "Best Sci-Fi 2021"
+  },
+  {
+    "id": 8,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "cover_image": "images/sapiens.jpg",
+    "rating": 4.7,
+    "category": "Must Reads",
+    "recommended_by": "Mark Zuckerberg",
+    "awards": "National Bestseller"
+  },
+  {
+    "id": 9,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "cover_image": "images/thinking.jpg",
+    "rating": 4.5,
+    "category": "Weekly Suggestions",
+    "recommended_by": "Nassim Taleb",
+    "awards": "Nobel Prize Laureate Author"
+  },
+  {
+    "id": 10,
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "cover_image": "images/overstory.jpg",
+    "rating": 4.4,
+    "category": "Must Reads",
+    "recommended_by": "Hugh Jackman",
+    "awards": "Pulitzer Prize for Fiction"
+  },
+  {
+    "id": 11,
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "cover_image": "images/tomorrow.jpg",
+    "rating": 4.6,
+    "category": "New Launch",
+    "recommended_by": "Jimmy Fallon",
+    "awards": "Book of the Year 2022"
+  },
+  {
+    "id": 12,
+    "title": "The Shards",
+    "author": "Bret Easton Ellis",
+    "cover_image": "images/shards.jpg",
+    "rating": 4.1,
+    "category": "New Launch",
+    "recommended_by": "Stephen King",
+    "awards": "LA Times Book Prize"
+  },
+  {
+    "id": 13,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "cover_image": "images/crawdads.jpg",
+    "rating": 4.7,
+    "category": "Must Reads",
+    "recommended_by": "Reese Witherspoon",
+    "awards": "Edgar Award Nominee"
+  },
+  {
+    "id": 14,
+    "title": "Crying in H Mart",
+    "author": "Michelle Zauner",
+    "cover_image": "images/hmart.jpg",
+    "rating": 4.5,
+    "category": "Weekly Suggestions",
+    "recommended_by": "Chrissy Teigen",
+    "awards": "Goodreads Choice Memoir"
+  },
+  {
+    "id": 15,
+    "title": "The Anomaly",
+    "author": "Hervé Le Tellier",
+    "cover_image": "images/anomaly.jpg",
+    "rating": 4.3,
+    "category": "Weekly Suggestions",
+    "recommended_by": "David Sedaris",
+    "awards": "Prix Goncourt Winner"
+  },
+  {
+    "id": 16,
+    "title": "Babel",
+    "author": "R.F. Kuang",
+    "cover_image": "images/babel.jpg",
+    "rating": 4.6,
+    "category": "Must Reads",
+    "recommended_by": "Gillian Anderson",
+    "awards": "Nebula Award Winner"
+  },
+  {
+    "id": 17,
+    "title": "The Covenant of Water",
+    "author": "Abraham Verghese",
+    "cover_image": "images/covenant.jpg",
+    "rating": 4.8,
+    "category": "New Launch",
+    "recommended_by": "Oprah Winfrey",
+    "awards": "NYT Best Seller"
+  },
+  {
+    "id": 18,
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "cover_image": "images/demon.jpg",
+    "rating": 4.7,
+    "category": "Must Reads",
+    "recommended_by": "John Green",
+    "awards": "Pulitzer Prize 2023"
+  },
+  {
+    "id": 19,
+    "title": "Sea of Tranquility",
+    "author": "Emily St. John Mandel",
+    "cover_image": "images/tranquility.jpg",
+    "rating": 4.4,
+    "category": "Weekly Suggestions",
+    "recommended_by": "George R.R. Martin",
+    "awards": "Goodreads Sci-Fi Winner"
+  },
+  {
+    "id": 20,
+    "title": "Yellowface",
+    "author": "R.F. Kuang",
+    "cover_image": "images/yellowface.jpg",
+    "rating": 4.5,
+    "category": "New Launch",
+    "recommended_by": "Emma Watson",
+    "awards": "Amazon Editor's Pick"
+  }
+]
